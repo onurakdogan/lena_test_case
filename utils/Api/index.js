@@ -1,0 +1,1 @@
+export const BASE_URL = "https://www.lenasoftware.com/api/v1/en/maestro/1";
